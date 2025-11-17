@@ -1,0 +1,3 @@
+* 4459390 Agrego descripción del proyecto
+* 74d7a84 Agrego autor en el README
+* b0071d3 Initial commit
